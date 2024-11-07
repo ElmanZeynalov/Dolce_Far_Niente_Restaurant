@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    .logo {
+        width: 80%;
+        margin-bottom: 15%;
+    }
+
+    .information {
+        width: 90%;
+        font-size: 1rem;
+        gap: 50px;
+    }
+
+    .coming-soon {
+        font-size: 3rem;
+        margin-top: -80px;
+    }
+
+    .reservations {
+        font-size: 1rem;
+        margin-top: -30px;
+    }
+}
